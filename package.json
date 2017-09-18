@@ -1,0 +1,17 @@
+{
+  "name": "homebridge-rx09",
+  "version": "0.0.1",
+  "description": "Eldat RX09 Interface plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": "ferensw/homebridge-rx09",
+  "engines": {
+    "node": ">=4.2.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "rx09": "^0.0.1"
+  }
+}
