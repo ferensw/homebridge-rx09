@@ -15,7 +15,7 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "rx09"
+    "rx09": ""
   },
   "bugs": {
     "url": "https://github.com/ferensw/homebridge-rx09/issues"
